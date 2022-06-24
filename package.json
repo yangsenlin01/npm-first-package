@@ -1,0 +1,15 @@
+{
+  "name": "@yangsenlin/first-package",
+  "author": {
+    "name": "YangSenLin",
+    "email": "1050696985@qq.com",
+    "url": "https://www.theboyaply.cn"
+  },
+  "homepage": "https://www.npmjs.com/package/@yangsenlin/first-package",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": ["yangsenlin", "npm demo"],
+  "description": "this is YangSenLin's first package",
+  "repository": "github:yangsenlin01/",
+  "main": "index.js"
+}
