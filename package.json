@@ -10,6 +10,6 @@
   "license": "MIT",
   "keywords": ["yangsenlin", "npm demo"],
   "description": "this is YangSenLin's first package",
-  "repository": "github:yangsenlin01/",
+  "repository": "github:yangsenlin01/npm-first-package",
   "main": "index.js"
 }
